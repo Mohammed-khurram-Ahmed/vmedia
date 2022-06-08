@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VMediaDemo</string>
+
+    <string name="first_fragment_label">Pokemon List</string>
+    <string name="second_fragment_label">Pokemon Details</string>
+    <string name="titles">Dummy Title</string>
+    <string name="empty_list">Empty List</string>
+</resources>
